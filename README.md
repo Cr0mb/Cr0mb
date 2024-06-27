@@ -1,5 +1,7 @@
 <h2 align="center">Hi there 👋</h2>
 
+
+
 # Welcome to My GitHub Page!
 
 ## About Me
@@ -8,6 +10,16 @@ My name is **Cr0mb**, and I am a young male living in North America. I have been
 - **Discord**: `cr0mbleonthegame`
 - **Discord Community**: [Black Hats UnderGround](https://discord.gg/CGDnDy5eEs)
 - **YouTube**: [Cr0mb's YouTube Channel](https://www.youtube.com/@cr0mble)
+
+<img src="crumb.jpg" alt="Custom Image" width="200" height="auto">
+
+Watching Robert Crumb's documentary inspired me to publish my coding works and continue developing independently. His dedication to authenticity and craftsmanship motivated me to learn and create rather than taking shortcuts with others' work.
+
+To this day, I honor his work and use this image he created to symbolize my commitment to authenticity and independent creation in coding and development.
+
+Robert Crumb's countercultural persona and provocative art often challenge norms and authority.
+
+Robert Crumb's, "Keep on Truckin'", has a psychedelic style; portraying characters defying societal conventions and rebellious attitude towards mainstream culture at the time.
 
 ## My Favorite Projects (so far)
 
