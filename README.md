@@ -18,7 +18,7 @@ Watching Robert Crumb's documentary inspired me to publish my coding works and c
 
 Robert Crumb's countercultural persona and provocative art often challenge norms and authority. For example, his comic; "Keep on Truckin'", has a psychedelic style; portraying characters defying societal conventions and rebellious attitude towards mainstream culture at the time.
 
-[The Confessions of Robert Crumb (1987)](https://www.youtube.com/watch?v=cO5ctDOXeEM)
+[The Confessions of Robert Crumb (1994)]([https://www.youtube.com/watch?v=cO5ctDOXeEM](https://tubitv.com/movies/100007594/crumb))
 
 ## My Favorite Projects (so far)
 
