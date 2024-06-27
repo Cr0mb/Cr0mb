@@ -3,7 +3,7 @@
 # Welcome to My GitHub Page!
 
 ## About Me
-My name is **Cr0mb**, and I am a young male living in North America. I have been passionate about computer science and programming from a young age. I've dedicated a lot of time to learning various computer languages and exploring different aspects of technology. Fun fact: I installed my first malware at the age of 6!
+My name is **Cr0mb**, and I am a young male living in North America. I have been passionate about computer science and programming from a young age. I've dedicated a lot of time to explore various computer languages and systems, as well as exploring different aspects of technology. Fun fact: I installed my first malware at the age of 6!
 
 - **Discord**: `cr0mbleonthegame`
 - **Discord Community**: [Black Hats UnderGround](https://discord.gg/CGDnDy5eEs)
