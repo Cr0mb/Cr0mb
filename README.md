@@ -25,17 +25,20 @@ Robert Crumb's countercultural persona and provocative art often challenge norms
 ### Project 1: [mcWizard](https://github.com/Cr0mb/mcWizard)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-Python-based toolset for conducting advanced reconnaissance tasks on web resources associated with IP addresses. It leverages asyncio for concurrent scanning, aiohttp for asynchronous HTTP requests, and integrates various utilities for handling files, terminal interactions, and network-related tasks.
+A Python script for managing Minecraft servers. It automates setup, starting/stopping the server, updating to the latest build, and integrates with Ngrok for remote access.
+Key features include EULA management, console access, and plugin downloading. Easy-to-use menu interface included.
 
 ### Project 2: [Cryptonix BTC/ETH Scanner](https://github.com/Cr0mb/Cryptonix-BTC-ETH-Scanner)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cryptography](https://img.shields.io/badge/Cryptography-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
 
-Cryptonix is a Python tool for generating Bitcoin and Ethereum addresses along with their corresponding private keys. It scans for balances on these addresses and displays the results. If a balance is found, it saves the successful combinations to a file named btcWin.txt.
+Cryptonix is a Python tool for generating Bitcoin and Ethereum addresses along with their corresponding private keys.
+It scans for balances on these addresses and displays the results. If a balance is found, it saves the successful combinations to a file named btcWin.txt.
 
 ### Project 3: [Python Web Scanner](https://github.com/Cr0mb/Python-Web-Scanner)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-Python-based toolset for conducting advanced reconnaissance tasks on web resources associated with IP addresses. It leverages asyncio for concurrent scanning, aiohttp for asynchronous HTTP requests, and integrates various utilities for handling files, terminal interactions, and network-related tasks.
+Python-based toolset for conducting advanced reconnaissance tasks on web resources associated with IP addresses.
+It leverages asyncio for concurrent scanning, aiohttp for asynchronous HTTP requests, and integrates various utilities for handling files, terminal interactions, and network-related tasks.
 
 ## Skills
 - **Programming Languages**: ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
