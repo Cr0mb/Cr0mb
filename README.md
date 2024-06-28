@@ -3,20 +3,20 @@
 <h2 align="center">Welcome to My GitHub Page!</h2>
 
 <p align="center">
-  <img src="crumb.jpg" alt="Custom Image" width="100" height="auto">
+  <a href="https://github.com/Cr0mb">
+    <img src="https://img.shields.io/github/followers/Cr0mb?label=Follow&style=social" alt="GitHub Followers">
+  </a>
+  <a href="https://github.com/Cr0mb">
+    <img src="https://img.shields.io/github/stars/Cr0mb?label=Stars&style=social" alt="GitHub Stars">
+  </a>
+  <a href="https://www.youtube.com/@cr0mble">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCQ-4CeZQg1Fb4HtcFJfYBfg?label=Subscribe&style=social" alt="YouTube Channel Subscribers">
+  </a>
+  <a href="https://www.youtube.com/@cr0mble">
+    <img src="https://img.shields.io/youtube/channel/views/UCQ-4CeZQg1Fb4HtcFJfYBfg?label=Views&style=social" alt="YouTube Channel Views">
+  </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Cr0mb">
-    <img src="https://img.shields.io/github/followers/Cr0mb?label=Follow&style=social" alt="GitHub Followers" width="120" height="25">
-  </a>
-  <a href="https://www.youtube.com/@cr0mble">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCQ-4CeZQg1Fb4HtcFJfYBfg?label=Subscribe&style=social" alt="YouTube Channel Subscribers" width="120" height="25">
-  </a>
-  <a href="https://www.youtube.com/@cr0mble">
-    <img src="https://img.shields.io/youtube/channel/views/UCQ-4CeZQg1Fb4HtcFJfYBfg?label=Views&style=social" alt="YouTube Channel Views" width="120" height="25">
-  </a>
-</p>
 
 <h2 align="center">About Me</h2>
 
