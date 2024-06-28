@@ -3,6 +3,11 @@
 <h2 align="center">Welcome to My GitHub Page!</h2>
 
 <p align="center">
+  <img src="crumb.jpg" alt="Image Description" width="150">
+</p>
+
+
+<p align="center">
   <a href="https://github.com/Cr0mb">
     <img src="https://img.shields.io/github/followers/Cr0mb?label=Follow&style=social" alt="GitHub Followers">
   </a>
