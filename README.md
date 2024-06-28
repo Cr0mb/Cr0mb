@@ -14,11 +14,17 @@ My name is **Cr0mb**, and I am a young male living in North America. I have been
 - **Discord Community**: [Black Hats UnderGround](https://discord.gg/CGDnDy5eEs)
 - **YouTube**: [Cr0mb's YouTube Channel](https://www.youtube.com/@cr0mble)
 
+
+<details>
+<summary>🎨 Click to reveal inspiration</summary>
+
 Watching Robert Crumb's documentary inspired me to publish my coding works and continue developing independently. His dedication to authenticity and craftsmanship motivated me to learn and create rather than taking shortcuts with others' work. To this day, I honor his work and use this image he created to symbolize my commitment to authenticity and independent creation in coding and development.
 
 Robert Crumb's countercultural persona and provocative art often challenge norms and authority. For example, his comic; "Keep on Truckin'", has a psychedelic style; portraying characters defying societal conventions and rebellious attitude towards mainstream culture at the time.
 
 [Watch Documentary on Robert Crumb (1994)](https://tubitv.com/movies/100007594/crumb)
+</details>
+
 
 ## My Favorite Projects (so far)
 
