@@ -73,7 +73,6 @@ It leverages asyncio for concurrent scanning, aiohttp for asynchronous HTTP requ
 - **Cybersecurity**: Malware analysis, security tools, and techniques
 - **Networking**: Network protocols and tools for network analysis
 
-## Contact
-Feel free to reach out to me via Discord at `cr0mbleonthegame` or check out my YouTube channel for more content related to my projects.
+
 
 
