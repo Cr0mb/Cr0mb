@@ -63,6 +63,16 @@ It scans for balances on these addresses and displays the results. If a balance 
 Python-based toolset for conducting advanced reconnaissance tasks on web resources associated with IP addresses.
 It leverages asyncio for concurrent scanning, aiohttp for asynchronous HTTP requests, and integrates various utilities for handling files, terminal interactions, and network-related tasks.
 
+### Project 4: [Assault Cube Mod Menu](https://github.com/Cr0mb/Assault-Cube-Mod-Menu)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+A memory manipulation tool for the game Assault Cube, written in Python. It allows users to modify in-game values such as health, ammo, and player attributes in real-time using a GUI interface.
+
+### Project 5: [Assault Cube Client Memory Manipulation](https://github.com/Cr0mb/Assault-Cube-Client-Memory-Manipulation)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+This repository demonstrates how to manipulate memory values within the AssaultCube game using Python and pymem. This is useful for games and applications where you want to read and modify in-game variables.
+
 ## Skills
 - **Programming Languages**: ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - **Asynchronous Programming**: asyncio, aiohttp
