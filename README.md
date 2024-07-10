@@ -22,7 +22,6 @@
   </a>
 </p>
 
-
 <h2 align="center">About Me</h2>
 
 My name is **Cr0mb**, and I am a young male living in North America. I have been passionate about computer science and programming from a young age. I've dedicated a lot of time to explore various computer languages and systems, as well as exploring different aspects of technology. Fun fact: I installed my first malware at the age of 6!
