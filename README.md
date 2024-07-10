@@ -68,10 +68,14 @@ It leverages asyncio for concurrent scanning, aiohttp for asynchronous HTTP requ
 
 A memory manipulation tool for the game Assault Cube, written in Python. It allows users to modify in-game values such as health, ammo, and player attributes in real-time using a GUI interface.
 
-### Project 5: [Assault Cube Client Memory Manipulation](https://github.com/Cr0mb/Assault-Cube-Client-Memory-Manipulation)
+Here is a repo for an explanation on how to learn to create the mod menu, (not explicity, but shows you how to read and write memory) 
+
+[Link Repo](https://github.com/Cr0mb/Assault-Cube-Client-Memory-Manipulation)
+
+### Project 5: [Crumb Hub](https://github.com/Cr0mb/Assault-Cube-Client-Memory-Manipulation)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-This repository demonstrates how to manipulate memory values within the AssaultCube game using Python and pymem. This is useful for games and applications where you want to read and modify in-game variables.
+CrumbHub is a Python-based command-line chat application that facilitates real-time messaging and secure communication among multiple users over a network. It provides end-to-end encryption for messages using AES encryption and supports user registration, login, and basic chat functionalities.
 
 ## Skills
 - **Programming Languages**: ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
