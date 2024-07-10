@@ -45,11 +45,11 @@ Robert Crumb's countercultural persona and provocative art often challenge norms
 
 ## My Favorite Projects (so far)
 
-### Project 1: [mcWizard](https://github.com/Cr0mb/mcWizard)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+### Project 1: [Litecoin Trading Bot](https://github.com/Cr0mb/Litecoin-Trading-Bot)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Cryptography](https://img.shields.io/badge/Cryptography-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
 
-A Python script for managing Minecraft servers. It automates setup, starting/stopping the server, updating to the latest build, and integrates with Ngrok for remote access.
-Key features include EULA management, console access, and plugin downloading. Easy-to-use menu interface included.
+This Python script automates trading on Binance using a simple strategy for the Litecoin (LTC) market.
+It fetches current prices, buys LTC when the price drops below a specified threshold, and sells LTC after a waiting period if the price rises above a sell threshold or falls below a stop-loss percentage.
 
 ### Project 2: [Cryptonix BTC/ETH Scanner](https://github.com/Cr0mb/Cryptonix-BTC-ETH-Scanner)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cryptography](https://img.shields.io/badge/Cryptography-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
