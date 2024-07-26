@@ -86,6 +86,24 @@ CrumbHub is a Python-based command-line chat application that facilitates real-t
 - **Cybersecurity**: Malware analysis, security tools, and techniques
 - **Networking**: Network protocols and tools for network analysis
 
+## Support Me ☕️
+
+If you appreciate my work and would like to support me, you can make a donation via Bitcoin or Litecoin. Your support helps me continue developing and sharing my projects. Thank you!
+
+- **Bitcoin**: `bc1qgjxvem5wceul8cxznk5gt52qcfve0ca8f20mp4`
+- **Litecoin**: `LVE6m9wVd5j9KuDEnR3KWy9saq6Z2kvKcG`
+
+<p align="center">
+  <a href="bitcoin:bc1qgjxvem5wceul8cxznk5gt52qcfve0ca8f20mp4">
+    <img src="https://img.shields.io/badge/Donate-Bitcoin-green?style=flat-square&logo=bitcoin" alt="Donate with Bitcoin">
+  </a>
+  <a href="litecoin:LVE6m9wVd5j9KuDEnR3KWy9saq6Z2kvKcG">
+    <img src="https://img.shields.io/badge/Donate-Litecoin-green?style=flat-square&logo=litecoin" alt="Donate with Litecoin">
+  </a>
+</p>
+
+
+
 ## Contributing
 
 I kindly ask that you do not submit merge requests to any of my repositories unless specifically open for contribution in the given repo. 
