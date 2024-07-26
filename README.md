@@ -30,6 +30,9 @@ My name is **Cr0mb**, and I am a young male living in North America. I have been
 - **Discord Community**: [Black Hats UnderGround](https://discord.gg/CGDnDy5eEs)
 - **YouTube**: [Cr0mb's YouTube Channel](https://www.youtube.com/@cr0mble)
 
+- **Minecraft Server**: [Discord](https://discord.gg/6CKXR3vHeX)
+- **IP:** [GCraftSMP.us.to](https://mcsrvstat.us/server/gcraftsmp.us.to)
+
 
 <details>
 <summary>🎨 Click to reveal inspiration</summary>
