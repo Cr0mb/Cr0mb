@@ -24,10 +24,9 @@
 
 My name is **Cr0mb**, a passionate programmer from North America. I've been exploring computer science from a young age, diving into various languages and technology. Fun fact: I installed my first piece of malware at age 6!
 
-- **Discord**: cr0mbleonthegame
+- **Discord**: `cr0mbleonthegame`
 - **Community**: [Black Hats UnderGround](https://discord.gg/CGDnDy5eEs)
 - **YouTube**: [Cr0mb's Channel](https://www.youtube.com/@cr0mble)
-- **Minecraft Server**: [Discord](https://discord.gg/6CKXR3vHeX) | **IP:** [GCraftSMP.us.to](https://mcsrvstat.us/server/gcraftsmp.us.to)
 
 <details>
 <summary>🎨 Inspiration</summary>
