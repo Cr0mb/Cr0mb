@@ -54,7 +54,7 @@ A Python tool for generating Bitcoin and Ethereum addresses, checking balances, 
 A toolset for advanced reconnaissance on web resources using asynchronous scanning techniques.
 
 ### Project 4: [Assault Cube Mod Menu](https://github.com/Cr0mb/Assault-Cube-Mod-Menu)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Game Hacking](https://img.shields.io/badge/Game%20Hacking-000000?style=for-the-badge&logo=minecraft&logoColor=white)
 
 A memory manipulation tool for Assault Cube, allowing real-time modifications of in-game values through a GUI.
 
