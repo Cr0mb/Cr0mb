@@ -37,8 +37,9 @@ Watching Robert Crumb's documentary inspired me to publish my coding works and d
 
 ## My Favorite Projects
 
-### Project 1: [Litecoin Trading Bot](https://github.com/Cr0mb/Litecoin-Trading-Bot)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cryptography](https://img.shields.io/badge/Cryptography-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
+### Project 1: [MinecraftBedrock-XP-Editor](https://github.com/Cr0mb/MinecraftBedrock-XP-Editor)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Game Hacking](https://img.shields.io/badge/Game%20Hacking-000000?style=for-the-badge&logo=minecraft&logoColor=white)
+
 
 This Python script automates trading on Binance for Litecoin (LTC) using a simple strategy based on price thresholds.
 
