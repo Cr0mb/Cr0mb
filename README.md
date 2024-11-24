@@ -37,7 +37,7 @@ Watching Robert Crumb's documentary inspired me to publish my coding works and d
 
 ## My Favorite Projects
 
-### Project 1: [MinecraftBedrock-XP-Editor](https://github.com/Cr0mb/MinecraftBedrock-XP-Editor)
+### Project 1: [COD:BO1-Zombies-Python-Value-Editor](https://github.com/Cr0mb/Call-of-Duty-Black-Ops-1-Zombies-Cheat-Script)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Game Hacking](https://img.shields.io/badge/Game%20Hacking-000000?style=for-the-badge&logo=minecraft&logoColor=white)
 
 
