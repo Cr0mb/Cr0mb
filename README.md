@@ -41,7 +41,8 @@ Watching Robert Crumb's documentary inspired me to publish my coding works and d
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Game Hacking](https://img.shields.io/badge/Game%20Hacking-000000?style=for-the-badge&logo=minecraft&logoColor=white)
 
 
-This Python script automates trading on Binance for Litecoin (LTC) using a simple strategy based on price thresholds.
+This Python script allows you to modify various game values for Call of Duty Black Ops 1 Zombies such as health, points, ammo, and grenades.
+
 
 ### Project 2: [Cryptonix BTC/ETH Scanner](https://github.com/Cr0mb/Cryptonix-BTC-ETH-Scanner)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cryptography](https://img.shields.io/badge/Cryptography-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
