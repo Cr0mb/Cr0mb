@@ -29,6 +29,15 @@ My name is **Cr0mb**, a passionate programmer from North America. I've been expl
 - **YouTube**: [Cr0mb's Channel](https://www.youtube.com/@cr0mble)
 - **UnknownCheats**: [UC Profile](https://www.unknowncheats.me/forum/members/5262305.html)
 
+## Support Me ☕️
+
+If you appreciate my work, consider supporting me via Bitcoin or Litecoin. Your support helps me continue developing and sharing projects. Thank you!
+
+- **Bitcoin**: bc1qlu0wl5twgxkmjxmnp8gj9j0ctf5lshserw4nfl
+- **Litecoin**: ltc1q0vc4ysn3rd7waz4qu39khhnd7czazcdjdjxt0r
+- **DogeCoin**: DBeMHqeZkjQhWigvyeM1s9kktppQnm6pDx
+- **Ethereum**: 0x6c3C1473786AF2D38b1AfD6205395BE80c96A034
+
 <details>
 <summary>🎨 Inspiration</summary>
 Watching Robert Crumb's documentary inspired me to publish my coding works and develop independently. His dedication to authenticity motivates me to learn and create rather than take shortcuts.
@@ -74,13 +83,6 @@ A command-line chat application that provides secure messaging with end-to-end e
 - **HTML Parsing**: Data manipulation from HTML
 - **Cybersecurity**: Malware analysis and security tools
 - **Networking**: Protocols and network analysis tools
-
-## Support Me ☕️
-
-If you appreciate my work, consider supporting me via Bitcoin or Litecoin. Your support helps me continue developing and sharing projects. Thank you!
-
-- **Bitcoin**: bc1qgjxvem5wceul8cxznk5gt52qcfve0ca8f20mp4
-- **Litecoin**: LVE6m9wVd5j9KuDEnR3KWy9saq6Z2kvKcG
 
 <p align="center">
   <a href="bitcoin:bc1qgjxvem5wceul8cxznk5gt52qcfve0ca8f20mp4">
