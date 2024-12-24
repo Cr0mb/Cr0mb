@@ -33,10 +33,7 @@ My name is **Cr0mb**, a passionate programmer from North America. I've been expl
 
 If you appreciate my work, consider supporting me via Bitcoin or Litecoin. Your support helps me continue developing and sharing projects. Thank you!
 
-- **Bitcoin**: bc1qlu0wl5twgxkmjxmnp8gj9j0ctf5lshserw4nfl
-- **Litecoin**: ltc1q0vc4ysn3rd7waz4qu39khhnd7czazcdjdjxt0r
-- **DogeCoin**: DBeMHqeZkjQhWigvyeM1s9kktppQnm6pDx
-- **Ethereum**: 0x6c3C1473786AF2D38b1AfD6205395BE80c96A034
+- **Bitcoin**: bc1q0dr6txv9mczku60t2898rlplrmj7wqx373rza8
 
 <details>
 <summary>🎨 Inspiration</summary>
