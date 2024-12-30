@@ -91,13 +91,15 @@ I installed my first piece of malware at age 6. Now, I write tools and scripts t
   If you find my work helpful, consider supporting me:
 </p>
 <p align="center">
-  <a href="bitcoin:bc1qgjxvem5wceul8cxznk5gt52qcfve0ca8f20mp4">
-    <img src="https://img.shields.io/badge/Donate-Bitcoin-green?style=flat-square&logo=bitcoin" alt="Donate with Bitcoin">
-  </a>
-  <a href="litecoin:LVE6m9wVd5j9KuDEnR3KWy9saq6Z2kvKcG">
-    <img src="https://img.shields.io/badge/Donate-Litecoin-green?style=flat-square&logo=litecoin" alt="Donate with Litecoin">
-  </a>
+  <img src="https://img.shields.io/badge/Donate-Bitcoin-green?style=flat-square&logo=bitcoin" alt="Donate with Bitcoin">
+  <br>
+  <code>bc1qgjxvem5wceul8cxznk5gt52qcfve0ca8f20mp4</code>
+  <br><br>
+  <img src="https://img.shields.io/badge/Donate-Litecoin-green?style=flat-square&logo=litecoin" alt="Donate with Litecoin">
+  <br>
+  <code>LVE6m9wVd5j9KuDEnR3KWy9saq6Z2kvKcG</code>
 </p>
+
 
 ---
 
