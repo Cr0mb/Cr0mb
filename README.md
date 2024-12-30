@@ -25,10 +25,14 @@
 My name is **Cr0mb**, a passionate programmer from North America. I've been exploring computer science from a young age, diving into various languages and technology. Fun fact: I installed my first piece of malware at age 6!
 
 - **Discord**: `cr0mbleonthegame`
-- **Community**: [Black Hats UnderGround](https://discord.gg/CGDnDy5eEs)
-- **YouTube**: [Cr0mb's Channel](https://www.youtube.com/@cr0mble)
-- **Steam**: [Steam Profile](https://steamcommunity.com/id/Cr0mbs_Space/)
-- **UnknownCheats**: [UC Profile](https://www.unknowncheats.me/forum/members/5262305.html)
+- **Community**:      [Black Hats UnderGround](https://discord.gg/CGDnDy5eEs)
+- **YouTube**:        [Cr0mb's Channel](https://www.youtube.com/@cr0mble)
+- **Steam**:          [Steam Profile](https://steamcommunity.com/id/Cr0mbs_Space/)
+- **UnknownCheats**:  [UC Profile](https://www.unknowncheats.me/forum/members/5262305.html)
+
+
+
+
 
 ## Support Me ☕️
 
