@@ -53,25 +53,49 @@ I installed my first piece of malware at age 6. Now, I write tools and scripts t
 
 ---
 
-<h2 align="center">Featured Projects 🎮</h2>
+<h2 align="center">Game-Hacking Projects 🎮</h2>
 
-#### **[COD:BO1-Zombies-Python-Value-Editor](https://github.com/Cr0mb/Call-of-Duty-Black-Ops-1-Zombies-Cheat-Script)**
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Game Hacking](https://img.shields.io/badge/Game%20Hacking-000000?style=for-the-badge&logo=minecraft&logoColor=white)
-> Modify health, points, ammo, and grenades in Call of Duty Black Ops 1 Zombies.
-
-#### **[Cryptonix BTC/ETH Scanner](https://github.com/Cr0mb/Cryptonix-BTC-ETH-Scanner)**
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cryptography](https://img.shields.io/badge/Cryptography-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
-> Generate Bitcoin/Ethereum addresses, check balances, and save successful results.
-
-#### **[Python Web Scanner](https://github.com/Cr0mb/Python-Web-Scanner)**
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-> Advanced web reconnaissance using asynchronous scanning.
-
-#### **[Elder Scrolls 3: Morrowind ESP](https://github.com/Cr0mb/Morrowind-ESP-Overlay)**
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Game Hacking](https://img.shields.io/badge/Game%20Hacking-000000?style=for-the-badge&logo=minecraft&logoColor=white)
-> Wallhack Visaul ESP with a GUI menu to toggle features.
+| Project | Description | Tags |
+|---------|-------------|------|
+| [Minecraft Bedrock Cheat Table](https://github.com/Cr0mb/Minecraft-Bedrock-Cheat-Engine-Table) | Cheat Engine table for Minecraft Bedrock Edition. | ![Game Hacking](https://img.shields.io/badge/Game%20Hacking-000000?style=for-the-badge&logo=minecraft&logoColor=white) |
+| [Skyrim Memory Editor](https://github.com/Cr0mb/Skyrim-Memory-Editor-Python) | Edit Skyrim values like health and attributes. | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Game Hacking](https://img.shields.io/badge/Game%20Hacking-000000?style=for-the-badge&logo=minecraft&logoColor=white) |
+| [Morrowind ESP Overlay](https://github.com/Cr0mb/Morrowind-ESP-Overlay) | Wallhack Visual ESP with GUI toggles. | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Game Hacking](https://img.shields.io/badge/Game%20Hacking-000000?style=for-the-badge&logo=minecraft&logoColor=white) |
+| [AssaultCube ESP Cheat](https://github.com/Cr0mb/AssaultCube-ESP-Python-Cheat) | ESP for AssaultCube with Python. | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Game Hacking](https://img.shields.io/badge/Game%20Hacking-000000?style=for-the-badge&logo=minecraft&logoColor=white) |
+| [Assault-Cube-Client Memory Manipulation](https://github.com/Cr0mb/Assault-Cube-Client-Memory-Manipulation) | Memory manipulation for AssaultCube. | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Game Hacking](https://img.shields.io/badge/Game%20Hacking-000000?style=for-the-badge&logo=minecraft&logoColor=white) |
+| [Assault-Cube-Mod Menu](https://github.com/Cr0mb/Assault-Cube-Mod-Menu) | Mod menu for AssaultCube. | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Game Hacking](https://img.shields.io/badge/Game%20Hacking-000000?style=for-the-badge&logo=minecraft&logoColor=white) |
+| [AC2 Memory Modifier](https://github.com/Cr0mb/Assassin-s-Creed-2-Memory-Modifier) | Modify memory values in Assassin's Creed 2. | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Game Hacking](https://img.shields.io/badge/Game%20Hacking-000000?style=for-the-badge&logo=minecraft&logoColor=white) |
+| [Far Cry 3 Memory Editor](https://github.com/Cr0mb/Far-Cry-3-Memory-Editor) | Modify Far Cry 3 values with Python. | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Game Hacking](https://img.shields.io/badge/Game%20Hacking-000000?style=for-the-badge&logo=minecraft&logoColor=white) |
+| [COD: BO1 Zombies Editor](https://github.com/Cr0mb/Call-of-Duty-Black-Ops-1-Zombies-Cheat-Script) | Modify health, points, ammo, and grenades in COD: BO1 Zombies. | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Game Hacking](https://img.shields.io/badge/Game%20Hacking-000000?style=for-the-badge&logo=minecraft&logoColor=white) |
 
 ---
+
+---
+
+<h2 align="center">Networking Projects 🌐</h2>
+
+| Project | Description | Tags |
+|---------|-------------|------|
+| [Simple Steam Idler](https://github.com/Cr0mb/Simple-Steam-Idler) | Simulate playing Steam games to increase playtime. | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| [Steam Profile Game Scraper](https://github.com/Cr0mb/Steam-Profile-Game-Scraper) | Scrape game data from Steam profiles. | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| [YouTube Channel Video Viewer](https://github.com/Cr0mb/YouTube-Channel-Video-Viewer) | Allows you to fetch and display details of all videos from a YouTube channel. | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| [File Downloader](https://github.com/Cr0mb/File-Downloader) | Download files from URLs with Python. | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| [Python Web Scanner 2.0](https://github.com/Cr0mb/Python-Web-Scanner-2.0) | Advanced asynchronous web scanner. | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| [GitHub Repository Fetcher](https://github.com/Cr0mb/GitHub-Repository-Fetcher) | Fetch data from GitHub repositories. | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| [How To PDANet](https://github.com/Cr0mb/How-To-PDANet) | Guide for using PDANet for internet tethering. | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| [Cryptonix BTC/ETH Scanner](https://github.com/Cr0mb/Cryptonix-BTC-ETH-Scanner) | Generate BTC/ETH addresses and check balances. | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| [IP Lookup](https://github.com/Cr0mb/IP-Lookup) | Perform IP address lookups with Python. | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| [Automate Website Requests](https://github.com/Cr0mb/Automate-Sending-Requests-to-a-Website-Using-Python) | Automate sending requests to websites. | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| [Proxy Scraper](https://github.com/Cr0mb/Proxy-Scraper) | Scrape and validate proxies. | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| [Reddit Scraper](https://github.com/Cr0mb/Reddit-Scraper) | Scrape data from Reddit using Python. | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| [Minecraft Server Status Checker](https://github.com/Cr0mb/Minecraft-Server-Status-Checker) | Check the status of Minecraft servers. | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| [BreadCracker](https://github.com/Cr0mb/BreadCracker) | Designed to scan for cryptocurrency wallets derived from mnemonic seeds and check their balances. | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| [Bread Engine](https://github.com/Cr0mb/Bread-Engine) | Python Dark Web Search Engine. | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+
+---
+
+
+
+
 
 <h2 align="center">Skills 🏆</h2>
 
