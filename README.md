@@ -140,11 +140,14 @@ Overall, Python not only lets me create efficient solutions but also challenges 
 | **Skill**              | **Description**                           |
 |------------------------|-------------------------------------------|
 | **Languages**         | Python, C++, Assembly                     |
-| **Web Scraping**      | Asynchronous data scraping with aiohttp   |
-| **Cryptography**      | Secure communication & data encryption    |
-| **Cybersecurity**     | Malware analysis, reverse engineering     |
-| **Networking**        | Packet analysis, protocol design          |
-| **Regex**             | Advanced pattern matching for parsing     |
+| **Web Scraping**      | Async data scraping with aiohttp          |
+| **Cryptography**      | Secure data encryption & hashing          |
+| **Cybersecurity**     | Malware analysis & reverse engineering    |
+| **Networking**        | Packet analysis & protocol design         |
+| **Regex**             | Advanced pattern matching                 |
+| **Blockchain**        | Address sweeping & balance checking       |
+| **Bitcoin Mining**    | Hash optimization & pool mining           |
+
 
 ---
 
