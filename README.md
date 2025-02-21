@@ -110,6 +110,9 @@ Overall, Python not only lets me create efficient solutions but also challenges 
 
 | Project | Description | Tags |
 |---------|-------------|------|
+| [Wei Sweeper](https://github.com/Cr0mb/Wei-Sweeper) | Ethereum wallet scanner and sweeper. | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| [Crypto Sweeper](https://github.com/Cr0mb/Crypto-Sweeper) | Cryptocurrency wallet scanner and balance checker. | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| [Satoshi Sweeper](https://github.com/Cr0mb/Satoshi-Sweeper) | Bitcoin wallet scanner and sweeper. | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | [Simple Steam Idler](https://github.com/Cr0mb/Simple-Steam-Idler) | Simulate playing Steam games to increase playtime. | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | [Steam Profile Game Scraper](https://github.com/Cr0mb/Steam-Profile-Game-Scraper) | Scrape game data from Steam profiles. | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | [YouTube Channel Video Viewer](https://github.com/Cr0mb/YouTube-Channel-Video-Viewer) | Allows you to fetch and display details of all videos from a YouTube channel. | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
