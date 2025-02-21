@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to My GitHub! 🚀</h1>
 <p align="center">
-  <img src="crumb.jpg" alt="Crumb Logo" width="150"/>
+  <img src="banner.png" alt="Crumb Logo" width="1024"/>
 </p>
 
 <p align="center">
