@@ -158,12 +158,34 @@ Overall, Python not only lets me create efficient solutions but also challenges 
 <p align="center">
   <img src="https://img.shields.io/badge/Donate-Bitcoin-green?style=flat-square&logo=bitcoin" alt="Donate with Bitcoin">
   <br>
-  <code>bc1qgjxvem5wceul8cxznk5gt52qcfve0ca8f20mp4</code>
+  <code>bc1qqzglf66l6reuxyj6ezh8hl0kywz38hsrj8nzax</code>
   <br><br>
+  
   <img src="https://img.shields.io/badge/Donate-Litecoin-green?style=flat-square&logo=litecoin" alt="Donate with Litecoin">
   <br>
-  <code>LVE6m9wVd5j9KuDEnR3KWy9saq6Z2kvKcG</code>
+  <code>ltc1qlupctrhm9hxfy2zngrg9j5japp739ftqd6ehqw</code>
+  <br><br>
+
+  <img src="https://img.shields.io/badge/Donate-Ethereum-green?style=flat-square&logo=ethereum" alt="Donate with Ethereum">
+  <br>
+  <code>0xed7C703F55B4317A081f345DF4daCAdE67b0Ef29</code>
+  <br><br>
+
+  <img src="https://img.shields.io/badge/Donate-Cardano-green?style=flat-square&logo=cardano" alt="Donate with Cardano">
+  <br>
+  <code>addr1q9lqqhxljxkjes2zu9zud2eqluec728pfn2rd7hvd6q4agx2650fklze764fqfajmjthnzyvvacygvz44ldg6x6duyfquexvtg</code>
+  <br><br>
+
+  <img src="https://img.shields.io/badge/Donate-Aeternity-green?style=flat-square&logo=aeternity" alt="Donate with Aeternity">
+  <br>
+  <code>ak_JDFyzQ5NMqEj6UymzcwLZ8juwnS1Jdb9YZkKauWyabM64CyVV</code>
+  <br><br>
+
+  <img src="https://img.shields.io/badge/Donate-Dogecoin-green?style=flat-square&logo=dogecoin" alt="Donate with Dogecoin">
+  <br>
+  <code>DRQcxq3X2KdQ1WG3v1tdb3uKmeX5LnJPAK</code>
 </p>
+
 
 ---
 
