@@ -18,7 +18,6 @@
   </a>
 </p>
 
-
 ---
 
 <h2 align="center">About Me 🌐</h2>
@@ -32,6 +31,9 @@
   <img src="https://img.shields.io/badge/-Cybersecurity-333333?logo=hackthebox&logoColor=green&style=flat-square" alt="Cybersecurity">
   <img src="https://img.shields.io/badge/-Game%20Hacking-black?logo=steam&logoColor=white&style=flat-square" alt="Game Hacking">
 </p>
+
+![Capture](https://github.com/Cr0mb/Cr0mb/blob/main/capture.gif)
+
 
 ### Fun Fact: 
 I installed my first piece of malware at age 6. Now, I write tools and scripts to **explore the boundaries of tech innovation.**
