@@ -36,10 +36,6 @@
 ### Fun Fact: 
 I installed my first piece of malware at age 6. Now, I write tools and scripts to **explore the boundaries of tech innovation.**
 
-
-<img src="compressed_image.jpg" alt="Crumb Logo" width="200"/>
-
-
 <details>
   <summary>🎨 Inspiration</summary>
   Watching Robert Crumb's documentary inspired me to publish my coding works and develop independently. His dedication to authenticity motivates me to learn and create rather than take shortcuts.
