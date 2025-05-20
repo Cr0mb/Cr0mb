@@ -51,7 +51,6 @@ I installed my first piece of malware at age 6. Now, I write tools and scripts t
 - **YouTube**: [Cr0mb's Channel](https://www.youtube.com/@cr0mble)
 - **Steam**: [Steam Profile](https://steamcommunity.com/id/Cr0mbs_Space/)
 - **UnknownCheats**: [UC Profile](https://www.unknowncheats.me/forum/members/5262305.html)
-- **Minecraft Server**:``blackhats.root.sx``
 
 ---
 
