@@ -52,6 +52,8 @@ I installed my first piece of malware at age 6. Now, I write tools and scripts t
 - **Steam**: [Steam Profile](https://steamcommunity.com/id/Cr0mbs_Space/)
 - **UnknownCheats**: [UC Profile](https://www.unknowncheats.me/forum/members/5262305.html)
 
+# Minecraft Server: blackhats.root.sx
+
 ---
 
 ### Why I Write in Python 🐍  
