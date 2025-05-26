@@ -67,25 +67,25 @@ I choose Python because it's simple, versatile, and powerful. It lets me focus o
 
 While most game hackers use languages like C++, I prefer Python for a few key reasons:  
 
-1. Less Common, More Challenge 🤔
+1. **Less Common, More Challenge:** 🤔
    Since fewer people use Python for game hacking, it presents a unique challenge. This pushes me to think critically and problem-solve more, helping me develop a deeper understanding of how games work. I enjoy the challenge of using a less popular language because it forces me to dig deeper and figure things out on my own.  
 
-2. Guided Hacking's Influence (But Limited)
+3. **Guided Hacking's Influence:** (But Limited)
    Though I’ve never bought a subscription at Guided Hacking, I’ve learned a lot from their free content. The educators there have played a small role in shaping my problem-solving skills, but ultimately, I’ve developed the ability to deduce solutions and think critically through my own efforts.  
 
-3. Ease of Use  
+4. **Ease of Use:**
    Python’s simple syntax allows me to quickly write and test hacks without getting bogged down in complicated code.  
 
-4. Faster Prototyping  
+5. **Faster Prototyping:**
    I can create and test game hacks much faster in Python than in C++, which saves me time and allows for more experimentation.  
 
-5. Flexibility  
+6. **Flexibility:**
    Python works well across different areas, like networking or automation, making it easy to integrate multiple tools into one project.  
 
-6. **Creative Solutions **  
+7. **Creative Solutions:**
    Python encourages me to think outside the box, helping me come up with unique ways to solve problems.  
 
-7. Great Libraries 
+8. **Great Libraries:**
    Python has powerful libraries like `ctypes`, `pymem`, and Cheat Engine's Python integration, which make memory manipulation and game hacking much easier.  
 
 Overall, Python not only lets me create efficient solutions but also challenges me in ways that make the process more rewarding. While Guided Hacking has offered some insight, it’s been my own efforts and curiosity that have truly driven my understanding of game hacking.
