@@ -52,7 +52,10 @@ I installed my first piece of malware at age 6. Now, I write tools and scripts t
 - **Steam**: [Steam Profile](https://steamcommunity.com/id/Cr0mbs_Space/)
 - **UnknownCheats**: [UC Profile](https://www.unknowncheats.me/forum/members/5262305.html)
 
-# Minecraft Server: blackhats.root.sx
+- **Minecraft Server**: Join the blackhats underground Minecraft Server! ``blackhats.root.sx`` or ``blackhat.1337.cx``
+
+![image](https://github.com/user-attachments/assets/c00157a7-ce3a-437d-a6f8-483e4c35c354)
+
 
 ---
 
