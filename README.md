@@ -1,9 +1,6 @@
 ---
 
 <h1 align="center">🚀 Welcome to Cr0mb's GitHub</h1>
-<p align="center">
-  <img src="banner.png" alt="Crumb Logo" width="1024"/>
-</p>
 
 <p align="center">
   <a href="https://github.com/Cr0mb">
@@ -368,10 +365,9 @@ If you like my work, consider donating:
 
 ---
 
+
 ## 🤝 Contributing
 
 If you're interested in contributing or collaborating, please message me on Discord. Pull requests are reviewed personally. Let's build together.
 
 ---
-
-> ⚠️ This README is evolving. Stay tuned for more updates!
