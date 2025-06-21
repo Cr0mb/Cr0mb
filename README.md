@@ -1,4 +1,6 @@
-<h1 align="center">Welcome to My GitHub! 🚀</h1>
+---
+
+<h1 align="center">🚀 Welcome to Cr0mb's GitHub</h1>
 <p align="center">
   <img src="banner.png" alt="Crumb Logo" width="1024"/>
 </p>
@@ -20,10 +22,10 @@
 
 ---
 
-<h2 align="center">About Me 🌐</h2>
+<h2 align="center">🌐 About Me</h2>
 
 <p align="center">
-  Hi! I'm <b>Cr0mb</b>, a passionate programmer and tech enthusiast from North America.
+  Hi, I'm <strong>Cr0mb</strong> — a cybersecurity and Python enthusiast passionate about creating hacking tools, network utilities, and game exploits.
 </p>
 
 <p align="center">
@@ -32,171 +34,344 @@
   <img src="https://img.shields.io/badge/-Game%20Hacking-black?logo=steam&logoColor=white&style=flat-square" alt="Game Hacking">
 </p>
 
-![Capture](https://github.com/Cr0mb/Cr0mb/blob/main/capture.gif)
+<p align="center">
+  <img src="https://github.com/Cr0mb/Cr0mb/blob/main/capture.gif" alt="Capture Demo" width="800">
+</p>
 
-
-### Fun Fact: 
-I installed my first piece of malware at age 6. Now, I write tools and scripts to **explore the boundaries of tech innovation.**
+### 🔍 Quick Facts
+- Started coding with malware at age 6 (for learning, not chaos).
+- I use Python where most use C++ — it’s my edge.
+- I believe in self-taught persistence over paid shortcuts.
 
 <details>
-  <summary>🎨 Inspiration</summary>
-  Watching Robert Crumb's documentary inspired me to publish my coding works and develop independently. His dedication to authenticity motivates me to learn and create rather than take shortcuts.
+  <summary>📺 Inspiration</summary>
+  Watching the documentary on Robert Crumb encouraged me to stay real, build freely, and never sell out.
   
-  [Watch Documentary on Robert Crumb (1994)](https://tubitv.com/movies/100007594/crumb)
+  [Watch It Here →](https://tubitv.com/movies/100007594/crumb)
 </details>
 
-### Connect with Me:
-- **Discord**: `cr0mbleonthegame`
-- **Community**: [Black Hats UnderGround](https://bhu.root.sx)
-- **YouTube**: [Cr0mb's Channel](https://www.youtube.com/@cr0mble)
-- **Steam**: [Steam Profile](https://steamcommunity.com/id/Cr0mbs_Space/)
-- **UnknownCheats**: [UC Profile](https://www.unknowncheats.me/forum/members/5262305.html)
+---
 
-- **Minecraft Server**: Join the blackhats underground Minecraft Server! ``blackhats.root.sx`` or ``blackhat.1337.cx``
+### 🔗 Connect With Me
+- Discord: cr0mbleonthegame
+- [YouTube Channel](https://www.youtube.com/@cr0mble)
+- [Steam Profile](https://steamcommunity.com/id/Cr0mbs_Space/)
+- [UnknownCheats](https://www.unknowncheats.me/forum/members/5262305.html)
 
-![image](https://github.com/user-attachments/assets/c00157a7-ce3a-437d-a6f8-483e4c35c354)
+---
+
+### 🐍 Why Python for Game Hacking?
+
+- **Unique**: Fewer hackers use Python — more room to innovate
+- **Fast Prototyping**: Less syntax, more speed
+- **Powerful Libraries**: ctypes, pymem, and CE Python integration
+- **Cross-functional**: Great for networking, automation, GUIs
+- **Influenced by Guided Hacking**, but mostly self-built knowledge
+
+---
+
+## 🎮 Game Hacking Projects
+
+<table>
+<tr><th>Project</th><th>Description</th><th>Tags</th></tr>
+
+<tr>
+<td><a href="https://github.com/Cr0mb/AOB-Scanning-Tutorial-Minecraft-Java-Edition">AOB Scanning Tutorial - Minecraft Java Edition</a></td>
+<td>Tutorial demonstrating Array of Bytes scanning for Minecraft Java Edition memory hacking</td>
+<td>Python, Memory Editing, Minecraft</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/Cr0mb/Assassin-s-Creed-2-Memory-Modifier">Assassin’s Creed 2 Memory Modifier</a></td>
+<td>Python script to enable God Mode, infinite money, and other cheats by editing game memory</td>
+<td>Python, Game Hacking</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/Cr0mb/Assault-Cube-Client-Memory-Manipulation">Assault Cube Client Memory Manipulation</a></td>
+<td>Tools for altering Assault Cube player stats and values at runtime via memory manipulation</td>
+<td>Python, Game Hacking</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/Cr0mb/Assault-Cube-Mod-Menu">Assault Cube Mod Menu</a></td>
+<td>Python tkinter mod menu for Assault Cube with real-time modification of health, ammo, and kevlar</td>
+<td>Python, GUI, Game Hacking</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/Cr0mb/AssaultCube-ESP-Python-Cheat">AssaultCube ESP Python Cheat</a></td>
+<td>ESP overlay cheat for AssaultCube showing player locations and info on-screen</td>
+<td>Python, ESP, Overlay</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/Cr0mb/BeyBlade-Metal-Fusion">BeyBlade Metal Fusion</a></td>
+<td>(No detailed description available; likely game-related)</td>
+<td>Game Project</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/Cr0mb/Call-of-Duty-Black-Ops-1-Zombies-Cheat-Script">Call of Duty Black Ops 1 Zombies Cheat Script</a></td>
+<td>Python script modifying player health, points, ammo, and grenades in Zombies mode</td>
+<td>Python, Game Hacking</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/Cr0mb/CS-GO-Python-Cheat">CS:GO Python Cheat</a></td>
+<td>Cheat scripts for Counter-Strike: Global Offensive including ESP features</td>
+<td>Python, ESP, Game Hacking</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/Cr0mb/CS-GO-Wireframe">CS:GO Wireframe</a></td>
+<td>Wireframe ESP cheat for CS:GO enabling player visualization through walls</td>
+<td>Python, ESP, Game Hacking</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/Cr0mb/CS2-Cheat-Python">CS2 Cheat Python</a></td>
+<td>Python cheats for Counter-Strike 2 with various hacking features</td>
+<td>Python, Game Hacking</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/Cr0mb/Far-Cry-3-Memory-Editor">Far Cry 3 Memory Editor</a></td>
+<td>Python memory editor to modify health, money, ammo, and other game variables</td>
+<td>Python, Game Hacking</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/Cr0mb/mcWizard">mcWizard</a></td>
+<td>Minecraft utility tool for managing and automating tasks in Minecraft</td>
+<td>Python, Minecraft</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/Cr0mb/Minecraft-Bedrock-Cheat-Engine-Table">Minecraft Bedrock Cheat Engine Table</a></td>
+<td>Cheat Engine table enabling cheats and hacks in Minecraft Bedrock Edition</td>
+<td>Cheat Engine, Minecraft</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/Cr0mb/Minecraft-Game-Mode-Toggle-Script">Minecraft Game Mode Toggle Script</a></td>
+<td>Script for automatic toggling between Minecraft game modes (Creative, Survival, etc.)</td>
+<td>Python, Minecraft</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/Cr0mb/Minecraft-Server-Status-Checker">Minecraft Server Status Checker</a></td>
+<td>Python tool to check the online status and player counts of Minecraft servers</td>
+<td>Python, Minecraft</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/Cr0mb/MinecraftBedrock-XP-Editor">Minecraft Bedrock XP Editor</a></td>
+<td>Editor tool to modify XP and stats for Minecraft Bedrock Edition</td>
+<td>Python, Minecraft</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/Cr0mb/Morrowind-ESP-Overlay">Morrowind ESP Overlay</a></td>
+<td>External ESP overlay displaying player and game info in Morrowind</td>
+<td>Python, ESP, Overlay, Game Hacking</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/Cr0mb/Morrowind-Memory-Editor">Morrowind Memory Editor</a></td>
+<td>Python memory editor to modify in-game stats and attributes in Morrowind</td>
+<td>Python, Game Hacking</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/Cr0mb/Skyrim-Memory-Editor-Python">Skyrim Memory Editor Python</a></td>
+<td>Python script for reading and writing Skyrim memory to enable cheats</td>
+<td>Python, Game Hacking</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/Cr0mb/Simple-Steam-Idler">Simple Steam Idler</a></td>
+<td>Automated Steam idling script to keep account “in-game” for achievements and playtime</td>
+<td>Python, Steam</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/Cr0mb/Steam-Profile-Game-Scraper">Steam Profile Game Scraper</a></td>
+<td>Python scraper to programmatically gather game data from Steam profiles</td>
+<td>Python, Steam</td>
+</tr>
+
+</table>
 
 
 ---
 
-### Why I Write in Python 🐍  
+## 🌐 Networking Projects
 
-I choose Python because it's simple, versatile, and powerful. It lets me focus on solving problems without worrying about complex syntax. Its large library ecosystem and supportive community make it a great choice for everything from game hacking 🎮 to networking 🌐.  
-
-### Why I Hack Games in Python  
-
-While most game hackers use languages like C++, I prefer Python for a few key reasons:  
-
-1. **Less Common, More Challenge:** 🤔
-   Since fewer people use Python for game hacking, it presents a unique challenge. This pushes me to think critically and problem-solve more, helping me develop a deeper understanding of how games work. I enjoy the challenge of using a less popular language because it forces me to dig deeper and figure things out on my own.  
-
-3. **Guided Hacking's Influence:** (But Limited)
-   Though I’ve never bought a subscription at Guided Hacking, I’ve learned a lot from their free content. The educators there have played a small role in shaping my problem-solving skills, but ultimately, I’ve developed the ability to deduce solutions and think critically through my own efforts.  
-
-4. **Ease of Use:**
-   Python’s simple syntax allows me to quickly write and test hacks without getting bogged down in complicated code.  
-
-5. **Faster Prototyping:**
-   I can create and test game hacks much faster in Python than in C++, which saves me time and allows for more experimentation.  
-
-6. **Flexibility:**
-   Python works well across different areas, like networking or automation, making it easy to integrate multiple tools into one project.  
-
-7. **Creative Solutions:**
-   Python encourages me to think outside the box, helping me come up with unique ways to solve problems.  
-
-8. **Great Libraries:**
-   Python has powerful libraries like `ctypes`, `pymem`, and Cheat Engine's Python integration, which make memory manipulation and game hacking much easier.  
-
-Overall, Python not only lets me create efficient solutions but also challenges me in ways that make the process more rewarding. While Guided Hacking has offered some insight, it’s been my own efforts and curiosity that have truly driven my understanding of game hacking.
-
-
----
-
-<h2 align="center">Game-Hacking Projects 🎮</h2>
-
-| Project | Description | Tags |
-|---------|-------------|------|
-| [Minecraft Bedrock Cheat Table](https://github.com/Cr0mb/Minecraft-Bedrock-Cheat-Engine-Table) | Cheat Engine table for Minecraft Bedrock Edition. | ![Game Hacking](https://img.shields.io/badge/Game%20Hacking-000000?style=for-the-badge&logo=minecraft&logoColor=white) |
-| [Skyrim Memory Editor](https://github.com/Cr0mb/Skyrim-Memory-Editor-Python) | Edit Skyrim values like health and attributes. | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Game Hacking](https://img.shields.io/badge/Game%20Hacking-000000?style=for-the-badge&logo=minecraft&logoColor=white) |
-| [Morrowind ESP Overlay](https://github.com/Cr0mb/Morrowind-ESP-Overlay) | Wallhack Visual ESP with GUI toggles. | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Game Hacking](https://img.shields.io/badge/Game%20Hacking-000000?style=for-the-badge&logo=minecraft&logoColor=white) |
-| [AssaultCube ESP Cheat](https://github.com/Cr0mb/AssaultCube-ESP-Python-Cheat) | ESP for AssaultCube with Python. | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Game Hacking](https://img.shields.io/badge/Game%20Hacking-000000?style=for-the-badge&logo=minecraft&logoColor=white) |
-| [Assault-Cube-Client Memory Manipulation](https://github.com/Cr0mb/Assault-Cube-Client-Memory-Manipulation) | Memory manipulation for AssaultCube. | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Game Hacking](https://img.shields.io/badge/Game%20Hacking-000000?style=for-the-badge&logo=minecraft&logoColor=white) |
-| [Assault-Cube-Mod Menu](https://github.com/Cr0mb/Assault-Cube-Mod-Menu) | Mod menu for AssaultCube. | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Game Hacking](https://img.shields.io/badge/Game%20Hacking-000000?style=for-the-badge&logo=minecraft&logoColor=white) |
-| [AC2 Memory Modifier](https://github.com/Cr0mb/Assassin-s-Creed-2-Memory-Modifier) | Modify memory values in Assassin's Creed 2. | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Game Hacking](https://img.shields.io/badge/Game%20Hacking-000000?style=for-the-badge&logo=minecraft&logoColor=white) |
-| [Far Cry 3 Memory Editor](https://github.com/Cr0mb/Far-Cry-3-Memory-Editor) | Modify Far Cry 3 values with Python. | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Game Hacking](https://img.shields.io/badge/Game%20Hacking-000000?style=for-the-badge&logo=minecraft&logoColor=white) |
-| [COD: BO1 Zombies Editor](https://github.com/Cr0mb/Call-of-Duty-Black-Ops-1-Zombies-Cheat-Script) | Modify health, points, ammo, and grenades in COD: BO1 Zombies. | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Game Hacking](https://img.shields.io/badge/Game%20Hacking-000000?style=for-the-badge&logo=minecraft&logoColor=white) |
-
----
-
----
-
-<h2 align="center">Networking Projects 🌐</h2>
-
-| Project | Description | Tags |
-|---------|-------------|------|
-| [Wei Sweeper](https://github.com/Cr0mb/Wei-Sweeper) | Ethereum wallet scanner and sweeper. | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| [Crypto Sweeper](https://github.com/Cr0mb/Crypto-Sweeper) | Cryptocurrency wallet scanner and balance checker. | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| [Satoshi Sweeper](https://github.com/Cr0mb/Satoshi-Sweeper) | Bitcoin wallet scanner and sweeper. | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| [Simple Steam Idler](https://github.com/Cr0mb/Simple-Steam-Idler) | Simulate playing Steam games to increase playtime. | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| [Steam Profile Game Scraper](https://github.com/Cr0mb/Steam-Profile-Game-Scraper) | Scrape game data from Steam profiles. | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| [YouTube Channel Video Viewer](https://github.com/Cr0mb/YouTube-Channel-Video-Viewer) | Allows you to fetch and display details of all videos from a YouTube channel. | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| [File Downloader](https://github.com/Cr0mb/File-Downloader) | Download files from URLs with Python. | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| [Python Web Scanner 2.0](https://github.com/Cr0mb/Python-Web-Scanner-2.0) | Advanced asynchronous web scanner. | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| [GitHub Repository Fetcher](https://github.com/Cr0mb/GitHub-Repository-Fetcher) | Fetch data from GitHub repositories. | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| [How To PDANet](https://github.com/Cr0mb/How-To-PDANet) | Guide for using PDANet for internet tethering. | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| [Cryptonix BTC/ETH Scanner](https://github.com/Cr0mb/Cryptonix-BTC-ETH-Scanner) | Generate BTC/ETH addresses and check balances. | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| [IP Lookup](https://github.com/Cr0mb/IP-Lookup) | Perform IP address lookups with Python. | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| [Automate Website Requests](https://github.com/Cr0mb/Automate-Sending-Requests-to-a-Website-Using-Python) | Automate sending requests to websites. | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| [Proxy Scraper](https://github.com/Cr0mb/Proxy-Scraper) | Scrape and validate proxies. | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| [Reddit Scraper](https://github.com/Cr0mb/Reddit-Scraper) | Scrape data from Reddit using Python. | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| [Minecraft Server Status Checker](https://github.com/Cr0mb/Minecraft-Server-Status-Checker) | Check the status of Minecraft servers. | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| [BreadCracker](https://github.com/Cr0mb/BreadCracker) | Designed to scan for cryptocurrency wallets derived from mnemonic seeds and check their balances. | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| [Bread Engine](https://github.com/Cr0mb/Bread-Engine) | Python Dark Web Search Engine. | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-
----
-
-
-
-
-
-<h2 align="center">Skills 🏆</h2>
-
-| **Skill**              | **Description**                           |
-|------------------------|-------------------------------------------|
-| **Languages**         | Python, C++, Assembly                     |
-| **Web Scraping**      | Async data scraping with aiohttp          |
-| **Cryptography**      | Secure data encryption & hashing          |
-| **Cybersecurity**     | Malware analysis & reverse engineering    |
-| **Networking**        | Packet analysis & protocol design         |
-| **Regex**             | Advanced pattern matching                 |
-| **Blockchain**        | Address sweeping & balance checking       |
-| **Bitcoin Mining**    | Hash optimization & pool mining           |
-
-
----
-
-<h2 align="center">Support Me ☕</h2>
-<p align="center">
-  If you find my work helpful, consider supporting me:
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Donate-Bitcoin-green?style=flat-square&logo=bitcoin" alt="Donate with Bitcoin">
-  <br>
-  <code>bc1qqzglf66l6reuxyj6ezh8hl0kywz38hsrj8nzax</code>
-  <br><br>
-  
-  <img src="https://img.shields.io/badge/Donate-Litecoin-green?style=flat-square&logo=litecoin" alt="Donate with Litecoin">
-  <br>
-  <code>ltc1qlupctrhm9hxfy2zngrg9j5japp739ftqd6ehqw</code>
-  <br><br>
-
-  <img src="https://img.shields.io/badge/Donate-Ethereum-green?style=flat-square&logo=ethereum" alt="Donate with Ethereum">
-  <br>
-  <code>0xed7C703F55B4317A081f345DF4daCAdE67b0Ef29</code>
-  <br><br>
-
-  <img src="https://img.shields.io/badge/Donate-Cardano-green?style=flat-square&logo=cardano" alt="Donate with Cardano">
-  <br>
-  <code>addr1q9lqqhxljxkjes2zu9zud2eqluec728pfn2rd7hvd6q4agx2650fklze764fqfajmjthnzyvvacygvz44ldg6x6duyfquexvtg</code>
-  <br><br>
-
-  <img src="https://img.shields.io/badge/Donate-Aeternity-green?style=flat-square&logo=aeternity" alt="Donate with Aeternity">
-  <br>
-  <code>ak_JDFyzQ5NMqEj6UymzcwLZ8juwnS1Jdb9YZkKauWyabM64CyVV</code>
-  <br><br>
-
-  <img src="https://img.shields.io/badge/Donate-Dogecoin-green?style=flat-square&logo=dogecoin" alt="Donate with Dogecoin">
-  <br>
-  <code>DRQcxq3X2KdQ1WG3v1tdb3uKmeX5LnJPAK</code>
-</p>
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Tags</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Cr0mb/Crypto-Sweeper">Crypto Sweeper</a></td>
+      <td>Tool for scanning cryptocurrency-related network activity and data.</td>
+      <td>Crypto, Scanner</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Cr0mb/Simple-Steam-Idler">Simple Steam Idler</a></td>
+      <td>Automates Steam account idling to accumulate playtime and achievements.</td>
+      <td>Steam, Automation</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Cr0mb/YouTube-Channel-Video-Viewer">YouTube Channel Video Viewer</a></td>
+      <td>Scrapes and displays videos from YouTube channels programmatically.</td>
+      <td>YouTube, Scraper</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Cr0mb/Proxy-Scraper">Proxy Scraper</a></td>
+      <td>Web scraper that collects proxy server lists for network routing and anonymity.</td>
+      <td>Proxy, Scraper</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Cr0mb/Minecraft-Server-Status-Checker">Minecraft Server Status Checker</a></td>
+      <td>Checks Minecraft server status, player counts, and latency.</td>
+      <td>Minecraft, Networking</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Cr0mb/Cryptonix-BTC-ETH-Scanner">Cryptonix BTC ETH Scanner</a></td>
+      <td>Monitors Bitcoin and Ethereum blockchain data.</td>
+      <td>Crypto, Blockchain</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Cr0mb/Automate-Sending-Requests-to-a-Website-Using-Python">Automate Sending Requests to a Website Using Python</a></td>
+      <td>Python scripts to automate HTTP requests and website interactions.</td>
+      <td>HTTP, Automation</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Cr0mb/Browser-Credential-Extractor-Keylogger">Browser Credential Extractor Keylogger</a></td>
+      <td>Extracts saved browser credentials and logs network activity.</td>
+      <td>Security, Keylogger</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Cr0mb/Browser-Data-Extraction">Browser Data Extraction</a></td>
+      <td>Extracts browser data like history, cookies, and cache.</td>
+      <td>Browser, Data Extraction</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Cr0mb/CrumbHub">CrumbHub</a></td>
+      <td>(No description available; likely networking or communication tool.)</td>
+      <td>Networking</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Cr0mb/CrumbShare">CrumbShare</a></td>
+      <td>(No description available; likely file sharing or network communication project.)</td>
+      <td>Networking</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Cr0mb/File-Downloader">File Downloader</a></td>
+      <td>Utility for downloading files over HTTP or other protocols.</td>
+      <td>HTTP, Downloader</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Cr0mb/GitHub-Repository-Fetcher">GitHub Repository Fetcher</a></td>
+      <td>Programmatically fetches GitHub repository data using GitHub API.</td>
+      <td>GitHub, API</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Cr0mb/How-To-PDANet">How To PDANet</a></td>
+      <td>Guide and scripts related to using PDANet for mobile tethering.</td>
+      <td>Tethering, Networking</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Cr0mb/IP-Lookup">IP Lookup</a></td>
+      <td>Performs IP address lookups retrieving geo and ISP info.</td>
+      <td>Networking, IP</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Cr0mb/Litecoin-Trading-Bot">Litecoin Trading Bot</a></td>
+      <td>Automated Litecoin trading via exchange APIs.</td>
+      <td>Crypto, Trading Bot</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Cr0mb/Python-Web-Scanner">Python Web Scanner</a></td>
+      <td>Scans websites for vulnerabilities and assets.</td>
+      <td>Web Security, Scanner</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Cr0mb/Python-Web-Scanner-2.0">Python Web Scanner 2.0</a></td>
+      <td>Improved web scanning tool with enhanced features.</td>
+      <td>Web Security, Scanner</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Cr0mb/Reddit-Scraper">Reddit Scraper</a></td>
+      <td>Extracts posts, comments, and user data from Reddit.</td>
+      <td>Scraper, Reddit API</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Cr0mb/Satoshi-Sweeper">Satoshi Sweeper</a></td>
+      <td>Tool related to Bitcoin blockchain data sweeping and monitoring.</td>
+      <td>Crypto, Blockchain</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Cr0mb/Steam-Profile-Game-Scraper">Steam Profile Game Scraper</a></td>
+      <td>Scrapes Steam user game data and profiles via network requests.</td>
+      <td>Steam, Scraper</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Cr0mb/Wallet-Generator-and-Balance-Checker">Wallet Generator and Balance Checker</a></td>
+      <td>Generates cryptocurrency wallets and checks balances via blockchain queries.</td>
+      <td>Crypto, Wallet</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Cr0mb/Windscribe-IP-Changer">Windscribe IP Changer</a></td>
+      <td>Automates IP address changes using Windscribe VPN.</td>
+      <td>VPN, Networking</td>
+    </tr>
+  </tbody>
+</table>
 
 
 ---
 
-<h2 align="center">Contributing 🙌</h2>
+## 🧠 Skills
 
-Contributions are welcome, but please DM me on Discord for ideas or tips. **Pull requests** are subject to approval. Let’s collaborate and innovate!
+| Category    | Tools & Knowledge                                  |
+|-------------|---------------------------------------------------|
+| Languages   | Python, Assembly                                  |
+| Security    | Reverse Engineering, Memory Hacking, Keylogging  |
+| Networking  | Web Scraping, HTTP Automation, Proxies, API Usage|
+| Blockchain  | Wallet Generation, Blockchain Scanning, Crypto APIs |
+| Utilities   | Regex, Web Automation, Debugging, File Encryption |
+| Game Hacking| Memory Editing, ESP Overlays, Game Modding        |
+
 
 ---
 
+## ☕ Support My Work
+
+If you like my work, consider donating:
+
+**Bitcoin:** bc1qqzglf66l6reuxyj6ezh8hl0kywz38hsrj8nzax
+
+**Litecoin:** ltc1qlupctrhm9hxfy2zngrg9j5japp739ftqd6ehqw
+
+**Ethereum:** 0xed7C703F55B4317A081f345DF4daCAdE67b0Ef29
+
+**Dogecoin:** DRQcxq3X2KdQ1WG3v1tdb3uKmeX5LnJPAK
+
+**Monero:** 82WFpBT3pLrBHDHXpe5TL2cQLEepYDieiDMZADyb3pHLd8oQCrMLs44WCi8vBN3aT8AkbRXnhry5JFEdyS9nzWSP6jDNWn1
+
+---
+
+## 🤝 Contributing
+
+If you're interested in contributing or collaborating, please message me on Discord. Pull requests are reviewed personally. Let's build together.
+
+---
+
+> ⚠️ This README is evolving. Stay tuned for more updates!
