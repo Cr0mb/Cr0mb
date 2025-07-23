@@ -154,7 +154,7 @@ If you find my projects useful, feel free to support:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Interested in collaborating? Reach out on Discord — I personally review all pull requests.
 
