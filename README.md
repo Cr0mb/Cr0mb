@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Welcome to Cr0mb's GitHub</h1>
+<h1 align="center">Welcome to Cr0mb's GitHub</h1>
 
 <p align="center">
   <a href="https://github.com/Cr0mb">
@@ -17,7 +17,7 @@
 
 ---
 
-## 🌐 About Me
+## About Me
 
 Hi, I'm **Cr0mb** — a cybersecurity and Python enthusiast focused on developing hacking tools, network utilities, and game exploits.
 
@@ -31,7 +31,7 @@ Hi, I'm **Cr0mb** — a cybersecurity and Python enthusiast focused on developin
   <img src="https://github.com/Cr0mb/Cr0mb/blob/main/capture.gif" alt="Demo Capture" width="800" />
 </p>
 
-### 🔍 Quick Facts
+### Quick Facts
 
 - Started coding with malware at age 6 — purely for learning, never malicious.
 - Prefer Python over C++ for its flexibility and rapid development.
@@ -55,7 +55,7 @@ Hi, I'm **Cr0mb** — a cybersecurity and Python enthusiast focused on developin
 
 ---
 
-## 🐍 Why Python for Game Hacking?
+## Why Python for Game Hacking?
 
 - **Unique approach:** Python is less common in game hacking — great for innovation.
 - **Rapid prototyping:** Minimal syntax, faster development.
@@ -65,7 +65,7 @@ Hi, I'm **Cr0mb** — a cybersecurity and Python enthusiast focused on developin
 
 ---
 
-## 🎮 Game Hacking Projects
+## Game Hacking Projects
 
 | Project | Description | Tags |
 |---------|-------------|------|
@@ -93,7 +93,7 @@ Hi, I'm **Cr0mb** — a cybersecurity and Python enthusiast focused on developin
 
 ---
 
-## 🌐 Networking & Automation Projects
+## Networking & Automation Projects
 
 | Project | Description | Tags |
 |---------|-------------|------|
@@ -123,7 +123,7 @@ Hi, I'm **Cr0mb** — a cybersecurity and Python enthusiast focused on developin
 
 ---
 
-## 🧠 Skills
+## Skills
 
 | Category    | Tools & Expertise                                    |
 |-------------|-----------------------------------------------------|
