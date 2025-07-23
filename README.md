@@ -49,7 +49,6 @@ Hi, I'm **Cr0mb** — a cybersecurity and Python enthusiast focused on developin
 
 ## 🔗 Connect With Me
 
-- Discord: `cr0mbleonthegame`
 - [YouTube Channel](https://www.youtube.com/@cr0mble)
 - [Steam Profile](https://steamcommunity.com/id/Cr0mbs_Space/)
 - [UnknownCheats Profile](https://www.unknowncheats.me/forum/members/5262305.html)
