@@ -140,13 +140,17 @@ Hi, I'm **Cr0mb** — a cybersecurity and Python enthusiast focused on developin
 
 If you find my projects useful, feel free to support:
 
-| Cryptocurrency | Address                                                       |
-|----------------|---------------------------------------------------------------|
-| Bitcoin        | `bc1qqzglf66l6reuxyj6ezh8hl0kywz38hsrj8nzax`                 |
-| Litecoin       | `ltc1qlupctrhm9hxfy2zngrg9j5japp739ftqd6ehqw`                 |
-| Ethereum       | `0xed7C703F55B4317A081f345DF4daCAdE67b0Ef29`                  |
-| Dogecoin       | `DRQcxq3X2KdQ1WG3v1tdb3uKmeX5LnJPAK`                          |
-| Monero         | `82WFpBT3pLrBHDHXpe5TL2cQLEepYDieiDMZADyb3pHLd8oQCrMLs44WCi8vBN3aT8AkbRXnhry5JFEdyS9nzWSP6jDNWn1` |
+| Method   | Address / Link                                                                 |
+|----------|---------------------------------------------------------------------------------|
+| **BTC**  | `bc1q5vuvs2l4xl0xjct8t6hq4p06m2mwdyyudf3ck8`                                     |
+| **BNB**  | `0x98e8e8ab1C5D82A4a1652B582966bBbEAB037655`                                     |
+| **ETH**  | `0x98e8e8ab1C5D82A4a1652B582966bBbEAB037655`                                     |
+| **LTC**  | `ltc1qs2d773y5pyun87pnc0wc2wrpwrvevrhkyvduph`                                   |
+| **POL**  | `0x98e8e8ab1C5D82A4a1652B582966bBbEAB037655`                                     |
+| **TWT**  | `0x98e8e8ab1C5D82A4a1652B582966bBbEAB037655`                                     |
+| **PayPal** | [paypal.me/GHaxLegit](https://www.paypal.com/paypalme/GHaxLegit?country.x=US&locale.x=en_US) |
+| **CashApp** | `$ghax420`                                                                  |
+
 
 ---
 
