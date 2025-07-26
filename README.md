@@ -19,7 +19,7 @@
 
 ## About Me
 
-Hi, I'm **Cr0mb** — a cybersecurity and Python enthusiast focused on developing hacking tools, network utilities, and game exploits.
+Hi, I'm **Cr0mb**, a cybersecurity and Python enthusiast focused on developing hacking tools, network utilities, and game exploits.
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python" />
@@ -33,7 +33,7 @@ Hi, I'm **Cr0mb** — a cybersecurity and Python enthusiast focused on developin
 
 ### Quick Facts
 
-- Started coding with malware at age 6 — purely for learning, never malicious.
+- Started coding with malware at age 6, purely for learning, never malicious.
 - Prefer Python over C++ for its flexibility and rapid development.
 - Self-taught persistence > paid shortcuts.
 
@@ -57,7 +57,7 @@ Hi, I'm **Cr0mb** — a cybersecurity and Python enthusiast focused on developin
 
 ## Why Python for Game Hacking?
 
-- **Unique approach:** Python is less common in game hacking — great for innovation.
+- **Unique approach:** Python is less common in game hacking, great for innovation.
 - **Rapid prototyping:** Minimal syntax, faster development.
 - **Powerful libs:** `ctypes`, `pymem`, Cheat Engine Python integration.
 - **Versatile:** Networking, automation, GUIs, and more.
@@ -156,7 +156,7 @@ If you find my projects useful, feel free to support:
 
 ## Contributing
 
-Interested in collaborating? Reach out on Discord — I personally review all pull requests.
+Interested in collaborating? Reach out on Discord, I personally review all pull requests.
 
 Let's build something great together!
 
