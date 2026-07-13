@@ -29,7 +29,7 @@
 
 Self-taught Python developer working primarily in offensive security and game hacking. I started coding at six out of pure curiosity, never anything malicious, and I have stuck with Python ever since because rapid iteration matters more than runtime when you are reverse engineering and prototyping.
 
-I publish weekly tutorials on YouTube covering CS2 cheat development, memory reading and writing, ESP, and reverse engineering, and maintain open-source projects across game cheats, blockchain tooling, network scanners, and encrypted communications.
+I publish tutorials on YouTube covering CS2 cheat development, memory reading and writing, ESP, and reverse engineering, and maintain open-source projects across game cheats, blockchain tooling, network scanners, and encrypted communications.
 
 **Discord:** `cr0mbleonthegame`
 
