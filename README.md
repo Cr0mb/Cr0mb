@@ -200,16 +200,6 @@ The handle comes from Robert Crumb. The Terry Zwigoff documentary *Crumb* set th
 
 <br>
 
-If a project saved you time or taught you something, contributions toward continued development are appreciated.
-
-| Method | Address |
-| ------ | ------- |
-| BTC | `bc1q5vuvs2l4xl0xjct8t6hq4p06m2mwdyyudf3ck8` |
-| ETH / BNB / POL / TWT (EVM) | `0x98e8e8ab1C5D82A4a1652B582966bBbEAB037655` |
-| LTC | `ltc1qs2d773y5pyun87pnc0wc2wrpwrvevrhkyvduph` |
-| PayPal | [paypal.me/GHaxLegit](https://www.paypal.com/paypalme/GHaxLegit?country.x=US&locale.x=en_US) |
-| CashApp | `$ghax420` |
-
 </details>
 
 ---
